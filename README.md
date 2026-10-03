@@ -1,8 +1,11 @@
 # Colt Express
 
-Colt Express is a board game. In this project, it was coded (with very bad graphisms) in Java. This project made in groups of 2 was realized during my second year of university.
+A Java version of the board game Colt Express, with a graphical interface: bandits move through a train, rob the passengers and shoot each other while the marshal patrols.
 
-# Members who contributed to this project
+## Usage
 
-Raphael LEONARDI
-Baptiste PRAS
+Open the project in IntelliJ IDEA (`colt_express.iml`) and run the `Colt.Main` class. The window is built with the IntelliJ GUI designer (`Window.form`).
+
+## Authors
+
+Raphael Leonardi and Baptiste Pras.
